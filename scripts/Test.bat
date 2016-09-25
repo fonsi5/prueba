@@ -1,5 +1,5 @@
 @echo off
-set workspace=D:\Master\WORKSPACE_JAVA\Alfonso.Ayuso.SVC.miw.upm.es
+set workspace=D:\Master\WORKSPACE_JAVA\prueba
 set JAVA_HOME=C:\Program Files\Java\jdk1.8.0_60
 set M2_HOME=C:\apache-maven-3.3.9
 set PATH=%PATH%;%JAVA_HOME%\bin;%M2_HOME%\bin
